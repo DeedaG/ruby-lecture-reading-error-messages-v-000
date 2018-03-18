@@ -1,4 +1,4 @@
-describe "Ruby errors" do
+describe "Ruby Errors" do
 
   context 'NameError' do
     it 'raises a NameError when encountering undefined barewords' do
